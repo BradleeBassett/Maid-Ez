@@ -23,9 +23,12 @@ export default {
     height: 100%;
     width: 100%;
 }
+
 h3{
     text-align: center;
+    font-size: medium;
+    font-weight: 200;
     font-family:'Roboto','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(56, 56, 56);
+    color: rgb(0, 0, 0);
 }
 </style>

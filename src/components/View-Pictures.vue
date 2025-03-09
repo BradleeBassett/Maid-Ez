@@ -1,5 +1,7 @@
 <template>
-  <div id="main"></div>
+  <div id="main">
+    
+  </div>
 </template>
 
 <script>
@@ -15,5 +17,4 @@ export default {
     width: 100%;
     background: rgb(235, 235, 235);
 }
-
 </style>
